@@ -1,6 +1,6 @@
 import 'package:bottom_navy_bar/bottom_navy_bar.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_app_dep_link/nav.dart';
+import 'nav.dart';
 
 class Myprofile extends StatefulWidget {
   const Myprofile({Key? key}) : super(key: key);
